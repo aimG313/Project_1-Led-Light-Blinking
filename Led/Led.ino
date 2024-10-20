@@ -1,5 +1,5 @@
 // Define the pin where the LED is connected
-int ledPin = 8; // Activate LED on pin 8
+int ledPin = 7; // Activate LED on pin 7
 
 void setup()
 {
